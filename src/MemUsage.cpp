@@ -1,6 +1,7 @@
 //============================================================================
 // Name        : MemUsage.cpp
-// Author      : 
+// Author      : Frank
+// Email        : zhang.flyer@163.com
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
